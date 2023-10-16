@@ -39,14 +39,14 @@ npm install
 yarn install
 ```
 
-5. Para iniciar o aplicativo, utilize o seguinte comando:
+4. Para iniciar o aplicativo, utilize o seguinte comando:
 
 ```bash
 npm start
 ```
 
-6. Você pode escanear o código QR exibido com o aplicativo Expo Go no seu dispositivo móvel ou usar um emulador para visualizar o jogo.
+5. Você pode escanear o código QR exibido com o aplicativo Expo Go no seu dispositivo móvel ou usar um emulador para visualizar o jogo.
 
-7. Divirta-se jogando o Jogo da Cobrinha!
+6. Divirta-se jogando o Jogo da Cobrinha!
 
 Lembre-se de que para executar o aplicativo em um dispositivo físico, é necessário que ambos, o dispositivo e o computador, estejam na mesma rede Wi-Fi.
